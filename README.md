@@ -197,7 +197,7 @@ I am finishing my MSBA at Baruch in May 2026 and looking for full-time roles in 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sainianalyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-saini-analyst/)
 [![Email](https://img.shields.io/badge/Gmail-Say+Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsaini30668@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashxsainix)
 

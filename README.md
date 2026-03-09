@@ -1,18 +1,119 @@
-# 💫 About Me:
-I'm currently working on<br>Building SQL and BigQuery data pipelines at the Research Foundation of CUNY supporting KPI reporting across 26 institutions, and finishing my MS in Business Analytics at Baruch College.<br>I'm looking to collaborate on<br>Open source data projects, analytics pipelines, or anything involving messy real-world datasets — transit data, housing data, public health, or consumer behavior.<br>I'm looking for help with<br>Improving the streaming layer in my MTA turnstile project (Kafka and Spark) and building out better model monitoring and drift detection in my ML projects.<br>I'm currently learning<br>dbt advanced modeling patterns, MLflow for experiment tracking, and deepening my work in spatial analysis and geospatial data pipelines.<br>Ask me about<br>SQL query optimization, building end-to-end analytics pipelines in Python, Power BI dashboard design, or how to structure a data project from raw data to stakeholder-ready output.<br>Fun fact<br>I founded an e-commerce platform at 20, ran it for six years while completing two graduate degrees, and somewhere in between decided that the data behind the decisions was more interesting than the decisions themselves.
+<!-- Header -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0EA5E9&height=180&section=header&text=Yashpal%20Saini&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20MSBA%20%40%20Baruch%20College&descAlignY=58&descSize=16&descColor=ffffff" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yash.s4ini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-saini-analyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashsaini30668@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasxsainix&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yasxsainix&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasxsainix&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasxsainix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I started my career doing data work for an auto industry firm in Delhi in 2019. Back then it was mostly Python scripts and Excel dashboards that I built from scratch to replace manual reporting. Nobody asked me to make them — I just hated watching people waste hours on work that a well-structured query could do in seconds.
+
+That instinct has shaped everything since.
+
+I have spent the last five years building pipelines, models, and dashboards across industries — from CRM analytics on 1M+ customer records at a data firm in Noida, to SQL and BigQuery infrastructure supporting KPI reporting across 26 institutions at the Research Foundation of CUNY. In parallel I founded and ran an e-commerce platform for six years, where every growth decision was made by reading behavioral data with limited resources and no margin for error.
+
+Right now I am finishing my MS in Business Analytics at Baruch College in New York (Pliner Bloom Scholar, GPA 3.6) and looking for full-time roles in data analytics, business intelligence, or data science.
+
+The four projects pinned below are the work I am most proud of. They are all built on real public datasets, documented thoroughly, and written for someone who wants to understand not just what I did, but what I found.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Query & Languages**
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-1A56DB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20Scikit--learn-1A56DB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Tidyverse%20%7C%20Quarto%20%7C%20ranger-1A56DB?style=for-the-badge&logo=r&logoColor=white)
+
+**Cloud & Pipelines**
+
+![GCP](https://img.shields.io/badge/Google%20Cloud-BigQuery%20%7C%20GCS-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Data%20Modeling-0EA5E9?style=for-the-badge&logo=dbt&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-Orchestration-0EA5E9?style=for-the-badge&logo=prefect&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**BI & Visualization**
+
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards%20%7C%20DAX-F59E0B?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-F59E0B?style=for-the-badge&logo=tableau&logoColor=white)
+
+</div>
+
+---
+
+## Projects
+
+### Customer Churn Prediction
+`Python` `Scikit-learn` `SQL` `Power BI` `SSMS`
+
+Built an end-to-end churn analytics pipeline on a telecom dataset. SQL-based EDA in SSMS, Random Forest classifier at 84% accuracy, and a Power BI dashboard that segments churn risk by contract type, tenure, and billing — designed so a retention team can act on it without pulling an analyst every time.
+
+The most interesting finding: month-to-month contract customers churned at more than 3x the rate of annual contract customers. Customers past the 12-month tenure mark were significantly less likely to leave regardless of how much they were paying.
+
+---
+
+### NYC Housing Equity & Policy Analytics
+`R` `Quarto` `Random Forest` `Spatial Analysis` `tidycensus` `NYC Open Data`
+
+Pulled 2023 data from four public APIs — NYC 311, HPD, DOB, and the American Community Survey — and used spatial joins to aggregate complaint patterns and resolution times at the census tract level.
+
+Trained a Random Forest model that predicted neighborhood median income from housing complaint features alone and reached an out-of-sample R² of 0.54, outperforming OLS and Elastic Net baselines. The finding that drives the whole project: income inequality is not just external context in NYC housing data — it is encoded in the complaint system itself. Lower-income neighborhoods wait longer for resolutions, and the gap is widest for complaints that go unresolved entirely.
+
+---
+
+### Online Retail Analytics
+`Python` `SQL` `SQLite` `Power BI` `DAX`
+
+Full pipeline on the UCI Online Retail dataset covering two years of UK e-commerce transactions. Cleaned and merged raw Excel files in Python, loaded to SQLite, ran SQL analysis across sales trends, returns, and customer behavior, and connected structured outputs to a dual-theme Power BI dashboard.
+
+Key finding: the top 27% of customers by activity generated roughly 80% of total revenue ($13.4M of $17.4M). Classic Pareto dynamics surfaced as a filterable slicer so a marketing team can work directly with it.
+
+---
+
+### MTA Turnstile Data Engineering
+`Python` `GCP` `BigQuery` `dbt` `Prefect` `Kafka` `Spark`
+
+Production-style data engineering pipeline on real MTA turnstile records. Ingested entry and exit counts from public sources, applied Python-based validation and cleaning, and loaded structured data into BigQuery via Prefect-orchestrated ETL workflows. Modeled the warehouse in dbt with staging and core layers.
+
+Weekday morning windows at high-volume stations carry 2 to 3x the ridership of midday periods. Stations near lower-income census tracts show consistent ridership drops on evenings and weekends. Extended the project with a Kafka and Spark streaming layer and a foot-traffic classification model.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashxsainix&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashxsainix&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+## Currently
+
+- Finishing MSBA at Baruch College (expected May 2026)
+- Working as Data Specialist Intern at Research Foundation of CUNY
+- Looking for full-time roles in data analytics, BI, or data science starting Summer 2026
+- Improving the streaming and ML monitoring layer on the MTA project
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashpal--saini-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-sainianalyst)
+[![Email](https://img.shields.io/badge/Email-yashsaini30668%40gmail.com-1A56DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsaini30668@gmail.com)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1A56DB&height=100&section=footer" />
+</div>

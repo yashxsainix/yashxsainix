@@ -23,7 +23,7 @@
 
 <br/>
 
-![Available](https://img.shields.io/badge/🟢_Status-Available_June_2026-3FB950?style=flat-square&labelColor=0D1117)
+![Available](https://img.shields.io/badge/🟢_Status-Available-3FB950?style=flat-square&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/📍_Location-New_York_City-58A6FF?style=flat-square&labelColor=0D1117)
 ![Degree](https://img.shields.io/badge/🎓_M.S._Business_Analytics-Baruch_College_·_GPA_3.6-FF6D00?style=flat-square&labelColor=0D1117)
 ![Scholar](https://img.shields.io/badge/🏆_Pliner_Bloom_Scholar-Baruch_College-D29922?style=flat-square&labelColor=0D1117)

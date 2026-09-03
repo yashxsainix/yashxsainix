@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C2D83,60:1565C0,100:FF6D00&height=260&section=header&text=YASHPAL%20SAINI&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Data%20Engineer%20%E2%80%A2%20Analytics%20Engineer%20%E2%80%A2%20New%20York%20City&descAlignY=62&descSize=20&descColor=58A6FF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0C2D83,60:1565C0,100:FF6D00&height=260&section=header&text=YASHPAL%20SAINI&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Data%20Analyst%20%E2%80%A2%20Analytics%20Analyst%20%E2%80%A2%20New%20York%20City&descAlignY=62&descSize=20&descColor=58A6FF" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Data+Engineer+%C2%B7+Analytics+Engineer+%C2%B7+M.S.+Baruch+College;26+CUNY+institutions+%C2%B7+3M%2B+transit+records+%C2%B7+8+live+projects;SQL+%26+Python+%C2%B7+Power+BI+%C2%B7+BigQuery+%C2%B7+dbt+%C2%B7+Apache+Iceberg;Graduating+May+2026+%C2%B7+Available+Full-Time+from+June+2026;The+data+existed.+Nobody+trusted+it.+I+fixed+that.)](https://github.com/yashxsainix)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Data+Analyst+%C2%B7+Analytics+Analyst+%C2%B7+M.S.+Baruch+College;26+CUNY+institutions+%C2%B7+3M%2B+transit+records+%C2%B7+8+live+projects;SQL+%26+Python+%C2%B7+Power+BI+%C2%B7+BigQuery+%C2%B7+dbt+%C2%B7+Apache+Iceberg;Graduating+May+2026+%C2%B7+Available+Full-Time+from+June+2026;The+data+existed.+Nobody+trusted+it.+I+fixed+that.)](https://github.com/yashxsainix)
 
 </div>
 
